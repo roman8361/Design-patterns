@@ -9,6 +9,7 @@ import path06.lesson06.chain.bancomat.banknote.BanknoteHandler;
  * @author Ilya_Sukhachev
  */
 public abstract class DollarHandlerBase extends BanknoteHandler {
+
     protected DollarHandlerBase(BanknoteHandler nextHandler) {
         super(nextHandler);
     }
@@ -22,4 +23,5 @@ public abstract class DollarHandlerBase extends BanknoteHandler {
     }
 
     protected abstract int getValue();
+
 }

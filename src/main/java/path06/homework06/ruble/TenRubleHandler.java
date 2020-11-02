@@ -1,7 +1,7 @@
-package path06.lesson06.chain.bancomat.ruble;
+package path06.homework06.ruble;
 
 
-import path06.lesson06.chain.bancomat.banknote.BanknoteHandler;
+import path06.homework06.banknote.BanknoteHandler;
 
 /**
  * TenRubleHandler.

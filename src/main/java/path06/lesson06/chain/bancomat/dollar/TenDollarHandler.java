@@ -20,4 +20,5 @@ public class TenDollarHandler extends DollarHandlerBase {
     protected int getValue() {
         return value;
     }
+
 }

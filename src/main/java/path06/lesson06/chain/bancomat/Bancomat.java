@@ -13,6 +13,7 @@ import path06.lesson06.chain.bancomat.ruble.TenRubleHandler;
  * @author Ilya_Sukhachev
  */
 public class Bancomat {
+
     private BanknoteHandler handler;
 
     public Bancomat() {

@@ -1,13 +1,13 @@
-package path06.lesson06.chain.bancomat.dollar;
+package path06.homework06.dollar;
 
-import path06.lesson06.chain.bancomat.banknote.BanknoteHandler;
+import path06.homework06.banknote.BanknoteHandler;
 
 /**
  * HundredDollarHandler.
  *
  * @author Ilya_Sukhachev
  */
-public class FiftyDollarHandler extends DollarHandlerBase {
+public class FiftyDollarHandler extends BanknoteHandler  {
 
     protected int value = 50;
 
@@ -15,7 +15,6 @@ public class FiftyDollarHandler extends DollarHandlerBase {
         super(nextHandler);
     }
 
-    @Override
     protected int getValue() {
         return value;
     }

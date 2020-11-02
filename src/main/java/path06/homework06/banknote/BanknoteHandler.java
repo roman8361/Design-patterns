@@ -1,4 +1,4 @@
-package path06.lesson06.chain.bancomat.banknote;
+package path06.homework06.banknote;
 
 /**
  * BanknoteHandler.
