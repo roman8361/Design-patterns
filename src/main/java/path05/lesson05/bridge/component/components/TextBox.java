@@ -1,6 +1,6 @@
 package path05.lesson05.bridge.component.components;
 
-import ru.iteco.structural.bridge.component.color.Color;
+import path05.lesson05.bridge.component.color.Color;
 
 /**
  * TextBox.

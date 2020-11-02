@@ -1,9 +1,9 @@
 package path05.homework05.adapter;
 
-import orm.api.IDbEntity;
-import orm.entity.AbstractOrm;
-import orm.first.IFirstOrm;
 
+import path05.homework05.api.IDbEntity;
+import path05.homework05.entity.AbstractOrm;
+import path05.homework05.first.IFirstOrm;
 
 public class FirstDbAdapter <T extends IDbEntity> implements AbstractOrm<T> {
 

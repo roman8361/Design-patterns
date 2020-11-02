@@ -1,8 +1,8 @@
 package path05.homework05.second;
 
 
-import orm.entity.DbUserEntity;
-import orm.entity.DbUserInfoEntity;
+import path05.homework05.entity.DbUserEntity;
+import path05.homework05.entity.DbUserInfoEntity;
 
 import java.util.Set;
 

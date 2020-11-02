@@ -1,10 +1,11 @@
 package path05.homework05.adapter;
 
-import orm.api.IDbEntity;
-import orm.entity.AbstractOrm;
-import orm.entity.DbUserEntity;
-import orm.entity.DbUserInfoEntity;
-import orm.second.ISecondOrm;
+
+import path05.homework05.api.IDbEntity;
+import path05.homework05.entity.AbstractOrm;
+import path05.homework05.entity.DbUserEntity;
+import path05.homework05.entity.DbUserInfoEntity;
+import path05.homework05.second.ISecondOrm;
 
 public class SecondDbAdapter <T extends IDbEntity> implements AbstractOrm<T> {
 

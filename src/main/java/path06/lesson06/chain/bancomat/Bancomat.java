@@ -1,10 +1,11 @@
 package path06.lesson06.chain.bancomat;
 
-import ru.iteco.behavioral.chain.bancomat.banknote.BanknoteHandler;
-import ru.iteco.behavioral.chain.bancomat.dollar.FiftyDollarHandler;
-import ru.iteco.behavioral.chain.bancomat.dollar.HundredDollarHandler;
-import ru.iteco.behavioral.chain.bancomat.dollar.TenDollarHandler;
-import ru.iteco.behavioral.chain.bancomat.ruble.TenRubleHandler;
+
+import path06.lesson06.chain.bancomat.banknote.BanknoteHandler;
+import path06.lesson06.chain.bancomat.dollar.FiftyDollarHandler;
+import path06.lesson06.chain.bancomat.dollar.HundredDollarHandler;
+import path06.lesson06.chain.bancomat.dollar.TenDollarHandler;
+import path06.lesson06.chain.bancomat.ruble.TenRubleHandler;
 
 /**
  * Bancomat.

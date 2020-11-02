@@ -1,13 +1,14 @@
 package path04.lesson04.flyweight;
 
-import static ru.iteco.structural.flyweight.Color.DARK_GREEN;
+import static path04.lesson04.flyweight.Color.DARK_GREEN;
+
 
 /**
  * WarningWindows.
  *
  * @author Ilya_Sukhachev
  */
-public class SavedPositionWindows extends Windows {
+public class SavedPositionWindows extends Windows{
 
     private static final int defaultX = 400;
     private static final int defaultY = 400;

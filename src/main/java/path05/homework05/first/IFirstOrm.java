@@ -1,7 +1,7 @@
 package path05.homework05.first;
 
 
-import orm.api.IDbEntity;
+import path05.homework05.api.IDbEntity;
 
 /**
  * IFirstOrm.

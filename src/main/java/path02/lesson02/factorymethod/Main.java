@@ -1,7 +1,8 @@
 package path02.lesson02.factorymethod;
 
-import ru.iteco.patterns.factorymethod.car.AbstractCar;
-import ru.iteco.patterns.factorymethod.car.CarFactory;
+import path02.lesson02.factorymethod.car.AbstractCar;
+import path02.lesson02.factorymethod.car.CarFactory;
+
 
 /**
  * Main.

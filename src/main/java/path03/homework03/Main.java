@@ -1,7 +1,8 @@
 package path03.homework03;
 
-import hw03.builder.AddSubjectBuilder;
-import hw03.entiry.Content;
+
+import path03.homework03.builder.AddSubjectBuilder;
+import path03.homework03.entiry.Content;
 
 import java.util.Set;
 

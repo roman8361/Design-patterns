@@ -1,8 +1,8 @@
 package path02.homework02.service;
 
 
-import car.api.CarFactory;
-import car.entity.*;
+import path02.homework02.api.CarFactory;
+import path02.homework02.entity.*;
 
 import java.awt.*;
 

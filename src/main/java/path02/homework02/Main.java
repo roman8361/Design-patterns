@@ -1,9 +1,9 @@
 package path02.homework02;
 
 
-import car.api.CarFactory;
-import car.entity.TypeCar;
-import car.service.CarFactoryHelper;
+import path02.homework02.api.CarFactory;
+import path02.homework02.entity.TypeCar;
+import path02.homework02.service.CarFactoryHelper;
 
 public class Main {
 

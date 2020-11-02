@@ -1,6 +1,7 @@
 package path05.homework05.entity;
 
-import orm.api.IDbEntity;
+
+import path05.homework05.api.IDbEntity;
 
 public interface AbstractOrm <T extends IDbEntity> {
 

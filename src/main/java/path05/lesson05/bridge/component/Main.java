@@ -1,11 +1,12 @@
 package path05.lesson05.bridge.component;
 
-import ru.iteco.structural.bridge.component.color.Color;
-import ru.iteco.structural.bridge.component.color.GreenColor;
-import ru.iteco.structural.bridge.component.color.RedColor;
-import ru.iteco.structural.bridge.component.components.Button;
-import ru.iteco.structural.bridge.component.components.ComboBox;
-import ru.iteco.structural.bridge.component.components.Component;
+import path05.lesson05.bridge.component.color.Color;
+import path05.lesson05.bridge.component.color.GreenColor;
+import path05.lesson05.bridge.component.color.RedColor;
+import path05.lesson05.bridge.component.components.Button;
+import path05.lesson05.bridge.component.components.ComboBox;
+import path05.lesson05.bridge.component.components.Component;
+
 
 /**
  * Main.

@@ -1,6 +1,6 @@
 package path04.lesson04.flyweight;
 
-import static ru.iteco.structural.flyweight.Color.RED;
+import static path04.lesson04.flyweight.Color.RED;
 
 /**
  * WindowConfig.

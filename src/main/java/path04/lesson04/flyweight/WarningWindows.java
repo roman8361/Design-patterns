@@ -1,6 +1,7 @@
 package path04.lesson04.flyweight;
 
-import static ru.iteco.structural.flyweight.Color.DARK_GREEN;
+import static path04.lesson04.flyweight.Color.DARK_GREEN;
+
 
 /**
  * WarningWindows.
@@ -31,4 +32,5 @@ public class WarningWindows extends Windows {
         System.out.println("==================");
         System.out.println(text);
     }
+
 }

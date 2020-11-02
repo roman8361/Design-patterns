@@ -1,6 +1,7 @@
 package path06.lesson06.chain.bancomat.dollar;
 
-import ru.iteco.behavioral.chain.bancomat.banknote.BanknoteHandler;
+
+import path06.lesson06.chain.bancomat.banknote.BanknoteHandler;
 
 /**
  * HundredDollarHandler.
