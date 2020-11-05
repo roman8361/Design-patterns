@@ -1,12 +1,12 @@
-package path06.homework06.handler;
+package path06.homework06.money;
 
 import path06.homework06.banknote.CurrencyType;
 
-public abstract class CurrencyHandler {
+public abstract class MoneyHandler {
 
-    private final CurrencyHandler nextHandler;
+    private MoneyHandler nextHandler;
 
-    protected CurrencyHandler(CurrencyHandler nextHandler) {
+    protected MoneyHandler(MoneyHandler nextHandler) {
         this.nextHandler = nextHandler;
     }
 
